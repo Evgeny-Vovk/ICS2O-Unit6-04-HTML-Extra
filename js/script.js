@@ -31,5 +31,5 @@ window.onload = function() {
 
   // output
   document.getElementById('dimensions').innerHTML = dimensions
-  document.getElementById('answer').innerHTML = 'The area is: ' + area.toFixed(2) + ' cm² ' + '<br>The perimeter is: ' + perimeter.toFixed(2) + ' cm²'
+  document.getElementById('answer').innerHTML = 'The area is: ' + area.toFixed(2) + ' cm². ' + '<br>The perimeter is: ' + perimeter.toFixed(2) + ' cm.'
 }
